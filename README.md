@@ -14,6 +14,7 @@ Follow these steps to get your development environment set up:
    ```
    cd PyPassword
 3. Install the required dependencies:
+   * Recommended to first create a virtual environment.
    ```
    pip install pillow
    pip install customtkinter
